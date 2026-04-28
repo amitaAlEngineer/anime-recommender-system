@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: anime-recommender-system
+Version: 0.1.0
+Summary: Add your description here
+Author: Amita
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: chromadb==0.5.5
+Requires-Dist: langchain==0.2.16
+Requires-Dist: langchain-community==0.2.16
+Requires-Dist: langchain-groq==0.1.9
+Requires-Dist: langchain-huggingface==0.0.3
+Requires-Dist: pandas==2.2.2
+Requires-Dist: python-dotenv==1.0.1
+Requires-Dist: sentence-transformers==3.0.1
+Requires-Dist: streamlit==1.37.1
+Dynamic: author
+
+# anime-recommender-system

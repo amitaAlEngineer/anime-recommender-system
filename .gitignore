@@ -1,0 +1,6 @@
+venv/
+logs/
+ANIME_RECOMMENDER.egg-info/
+.env
+anime_venv
+chroma_db/
